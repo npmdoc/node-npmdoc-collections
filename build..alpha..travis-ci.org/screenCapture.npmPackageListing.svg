@@ -1,0 +1,53 @@
+<svg height="798" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="798" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 14:49:05 +0000   280547 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 14:49:05 +0000     8638 bytes  CHANGES.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 14:49:05 +0000     1268 bytes  FUTURE.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 14:49:05 +0000     1568 bytes  LICENSE.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 14:49:05 +0000     1126 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 14:49:05 +0000     5709 bytes  _dict.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 14:49:05 +0000     7244 bytes  _fast-set.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 14:49:05 +0000     9820 bytes  _list.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 14:49:05 +0000     9947 bytes  _map.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 14:49:05 +0000     8792 bytes  _set.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 14:49:05 +0000      749 bytes  collections.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 14:49:05 +0000    12265 bytes  deque.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 14:49:05 +0000      342 bytes  dict.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 14:49:05 +0000     1802 bytes  fast-map.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 14:49:05 +0000      233 bytes  fast-set.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 14:49:05 +0000     8574 bytes  generic-collection.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 14:49:05 +0000     5744 bytes  generic-map.git.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 14:49:05 +0000     6061 bytes  generic-map.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 14:49:05 +0000     1355 bytes  generic-order.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 14:49:05 +0000     2530 bytes  generic-set.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 14:49:05 +0000     7777 bytes  heap.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 14:49:05 +0000    10928 bytes  iterator.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 14:49:05 +0000     2759 bytes  lfu-map.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 14:49:05 +0000     7453 bytes  lfu-set.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-22 14:49:05 +0000     7947 bytes  list.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-22 14:49:05 +0000    15286 bytes  listen/array-changes.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-22 14:49:05 +0000     4237 bytes  listen/change-descriptor.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-22 14:49:05 +0000     9624 bytes  listen/map-changes.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-22 14:49:05 +0000    19606 bytes  listen/property-changes.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-22 14:49:05 +0000    10059 bytes  listen/range-changes.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-22 14:49:05 +0000     2759 bytes  lru-map.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-22 14:49:05 +0000     4673 bytes  lru-set.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-22 14:49:05 +0000      656 bytes  map.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-22 14:49:05 +0000     1052 bytes  multi-map.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-22 14:49:05 +0000     1141 bytes  package.json</tspan>
+<tspan x="10" y="586"> 35.  2017-04-22 14:49:05 +0000     7861 bytes  set.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-22 14:49:05 +0000    10004 bytes  shim-array.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-22 14:49:05 +0000     1851 bytes  shim-function.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-22 14:49:05 +0000    21758 bytes  shim-object.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-22 14:49:05 +0000      439 bytes  shim-regexp.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-22 14:49:05 +0000      160 bytes  shim.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-22 14:49:05 +0000     1726 bytes  sorted-array-map.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-22 14:49:05 +0000     1691 bytes  sorted-array-set.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-22 14:49:05 +0000     9874 bytes  sorted-array.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-22 14:49:05 +0000     2132 bytes  sorted-map.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-22 14:49:05 +0000    22484 bytes  sorted-set.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-22 14:49:05 +0000      758 bytes  tree-log.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-22 14:49:05 +0000       85 bytes  weak-map.js</tspan>
+</text>
+</svg>
